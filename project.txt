@@ -1,5 +1,1 @@
-hi this is my first prject for github
-
-1. git add . 
-2. git commit -m "message"
-3. git push
+hi this is my first prject
